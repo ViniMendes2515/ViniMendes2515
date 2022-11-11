@@ -26,7 +26,7 @@
   <br>
   <br>
   <img align="center" alt="Vini-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Vini-Manjaro" height="35" width="110"  src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img align="center" alt="Vini-Manjaro" height="35" width="110"  src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" href="https://manjaro.org/"/>
   
  
 </div>
