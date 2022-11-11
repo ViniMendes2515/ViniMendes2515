@@ -3,9 +3,9 @@
 
 <hr>
 
-- 🌱 Estou estudando JavaScript, TypeScript e React JS
-- 💬 Me pergunte sobre a vida
-- 📫 Entre em contato por vinimcastro@protonmail.com
+🌱 Estou estudando JavaScript, TypeScript e React JS
+
+📫 Entre em contato por vinimcastro@protonmail.com
 
 <div align="center">
   <a href="https://github.com/ViniMendes2515">
