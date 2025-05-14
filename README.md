@@ -45,9 +45,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/vini_mendescz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/authwall?trkInfo=AQEeLW2ONTp1QgAAAZaxs0TwkOIHSKHYbfUE-vjs3INJI9-sOA7cn0ed3S2VWfv-tePJ3YI6TLuvxB4dFHhnKy52TkO9XExp0pabuU9NaCCGLpgy9SF4PYcLdy_HrhtD7EKvKxM=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvinicius-mendes-castro-a64083226%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
